@@ -2,8 +2,6 @@
 
 ### Guides for Cardano developers
 
-**Useful links**
-
 - [Deep Dive] - A great overall view of Cardano's ecosystem
 - [Motivation] - Why Cardano?
 
