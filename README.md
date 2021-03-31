@@ -1,6 +1,6 @@
 # Cardano Guides
 
-## Guides for Cardano developers
+**Guides for Cardano developers**
 
 ### Useful links
 
